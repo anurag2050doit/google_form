@@ -15,3 +15,5 @@
 - Remove `start_urls` with your google form url
 - Modified any pre-define value you wanna use
 - Submit form with random choice's
+
+:)
